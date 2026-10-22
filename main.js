@@ -1,3 +1,4 @@
-const a=(){
+const a=()=>{
   x=5
 }
+
